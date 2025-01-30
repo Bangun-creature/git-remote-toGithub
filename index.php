@@ -8,5 +8,10 @@
 <body>
     <h2>Remote to Github</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, quis quia cum, aspernatur beatae obcaecati harum nostrum iusto, itaque molestias sit consectetur ad voluptate eaque saepe at sed sunt provident.</p>
+    <ul>
+        <li>Menjadi programer fullstack</li>
+        <li>Menjadi educator</li>
+        <li>Menjadi pengusaha</li>
+    </ul>
 </body>
 </html>
